@@ -1,0 +1,13 @@
+.check-button{
+    background-color: green;
+  
+}
+
+.del-button{
+    background-color: red;
+}
+
+.cross-this{
+    text-decoration: line-through;
+    opacity: 0.3;
+}
